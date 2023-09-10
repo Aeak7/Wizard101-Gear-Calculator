@@ -1,5 +1,5 @@
 # Wizard101-Gear-Calculator
 
-Work in progress
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68ed1b8f-fc0f-4b13-b831-5b29b3595dee/d3jp9du-bc0f4235-af4b-447a-8d0c-dc19c4a9f98e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4ZWQxYjhmLWZjMGYtNGIxMy1iODMxLTViMjliMzU5NWRlZVwvZDNqcDlkdS1iYzBmNDIzNS1hZjRiLTQ0N2EtOGQwYy1kYzE5YzRhOWY5OGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wQ2YwLWtQjfL_0sp7cTnw_VoZYpDhS0ua-wCjaulK3w)
+<p>Work in Progress</p>
+
 ![](https://pyxis.nymag.com/v1/imgs/2e7/5d7/73e020f56c4a86221823bc32113b4316d2-25-ben-affleck-sad-smoke.rvertical.w330.jpg)
